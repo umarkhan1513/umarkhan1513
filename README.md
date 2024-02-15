@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,c,c++,js,react" />
+</div>
+
+
 <!--
 **umarkhan1513/umarkhan1513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
