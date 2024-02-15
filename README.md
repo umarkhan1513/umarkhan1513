@@ -18,7 +18,7 @@
 
 ### Design Tools:
 <div margin-left="40px">
-  <img src="https://skillicons.dev/icons?i=figma,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </div>
 
 ### Version Control Tools:
