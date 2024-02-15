@@ -1,6 +1,5 @@
 ### My Skill Stack:
 
-
 ### Web Development:
 <div margin-left="40px">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,redux,nodejs,express,vite,wordpress,webflow&perline=6" />
@@ -29,6 +28,11 @@
 ### Developer Environment:
 <div margin-left="40px">
   <img src="https://skillicons.dev/icons?i=vscode" />
+</div>
+
+### Contact me at:
+<div margin-left="40px">
+  <img src="https://skillicons.dev/icons?i=gmail,discord,instagram" />
 </div>
 
 <!--
