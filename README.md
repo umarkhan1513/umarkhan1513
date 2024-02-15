@@ -3,7 +3,7 @@
 
 ### Web Development:
 <div margin-left="40px">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,redux,nodejs,express,wordpress,webflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,redux,nodejs,express,vite,wordpress,webflow" />
 </div>
 
 ### App Development:
