@@ -7,28 +7,28 @@
 </div>
 
 ### App Development:
-<div align="center">
+<div margin-left="40px">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
 </div>
 
 ### Game Development:
-<div align="center">
+<div margin-left="40px">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal" />
 </div>
 
 ### Design Tools:
-<div align="center">
+<div margin-left="40px">
   <img src="https://skillicons.dev/icons?i=figma,ai" />
 </div>
 
 ### Version Control Tools:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
+<div margin-left="40px">
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </div>
 
-### Version Control Tools:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+### Developer Environment:
+<div margin-left="40px">
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </div>
 
 <!--
