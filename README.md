@@ -1,10 +1,35 @@
-### Hi there 👋
+### My Skill Stack:
 
 
+### Web Development:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,c,cpp,cs,js,react,redux,nodejs,express,flutter,firebase,wordpress,figma,ai,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,redux,nodejs,express,wordpress,webflow" />
 </div>
 
+### App Development:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+</div>
+
+### Game Development:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal" />
+</div>
+
+### Design Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai" />
+</div>
+
+### Version Control Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</div>
+
+### Version Control Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</div>
 
 <!--
 **umarkhan1513/umarkhan1513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
