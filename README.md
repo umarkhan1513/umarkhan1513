@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,c,cpp,cs,js,react,node,express,flutter,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,c,cpp,cs,js,react,redux,nodejs,express,flutter,firebase,wordpress,figma,ai,git,github,vscode" />
 </div>
 
 
