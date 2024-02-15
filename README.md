@@ -2,7 +2,7 @@
 
 
 ### Web Development:
-<div align="center">
+<div margin-left="40px">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,redux,nodejs,express,wordpress,webflow" />
 </div>
 
